@@ -1,0 +1,43 @@
+Qus: difference between useLayoutEffect and useEffect?
+
+useEffect--------------
+Think of useEffect as “run this after the screen updates.”
+Runs after React renders and paints the UI
+Non-blocking: the browser gets to paint first
+Best for most side effects
+
+Typical use cases:---------
+Fetching data
+Subscribing to events (WebSocket, resize, etc.)
+Logging, analytics
+Updating state that doesn’t affect layout immediately
+
+useLayoutEffect----------
+Think of useLayoutEffect as “run this before the screen updates.”
+Runs after React mutates the DOM but before the browser paints
+Blocking: delays painting until it finishes
+Used when you must measure or change layout synchronously
+
+Typical use cases:---------------
+Measuring DOM elements (getBoundingClientRect)
+Adjusting scroll position
+Preventing visual flicker
+Syncing DOM measurements with state
+
+Qus: What is lifting state up?
+
+Qus: What is useMemo(Hooks) in reactjs.
+Ans: useMemo memoizes computed values to avoid unnecessary recalculations between renders.
+
+Qus: Please explain useContext. 
+Ans: React Context allows sharing data across components without prop drilling.
+
+Qus: What is a Pure Component in React?
+Ans: Pure Component, Re-renders only when its props or state change
+
+Qus: What is React.Memo?
+Ans: React.Memo is a higher-order component that prevents re-rendering if props haven’t changed.
+
+Qus: What is code splitting in React?
+Ans: Breaking your JavaScript bundle into smaller chunks and loading them only when needed.
+
