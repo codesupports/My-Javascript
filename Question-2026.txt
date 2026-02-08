@@ -41,3 +41,13 @@ Ans: React.Memo is a higher-order component that prevents re-rendering if props 
 Qus: What is code splitting in React?
 Ans: Breaking your JavaScript bundle into smaller chunks and loading them only when needed.
 
+Qus: What is React batching?
+
+Qus: 19. Why should you avoid using array index as key?
+
+Qus: How does Suspense work internally?
+Ans: Suspense pauses rendering when a component throws a Promise.
+
+Qus: What makes a good React architecture?
+
+Ans: Feature-based folder structure, Clear state ownership, Reusable components, Minimal global state, Separation of concerns
