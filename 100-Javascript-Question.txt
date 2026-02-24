@@ -1,0 +1,104 @@
+var, let, const me kya difference hai?
+Hoisting kya hoti hai?
+Temporal Dead Zone kya hai?
+== vs === difference?
+Data types kitne hote hain JavaScript me?
+Primitive vs Non-primitive types?
+typeof null ka output kya hai aur kyun?
+NaN kya hai?
+Undefined vs Null difference?
+Truthy aur Falsy values kya hoti hain?
+Scope kya hota hai?
+Block scope kya hai?
+Function declaration vs function expression?
+Arrow function kya hai?
+this keyword kaise kaam karta hai?
+Template literals kya hain?
+Destructuring kya hai?
+Spread operator kya karta hai?
+Rest operator kya hai?
+Default parameters kya hote hain?
+
+Closure kya hota hai?
+Callback function kya hoti hai
+Higher-order function kya hota hai?
+Event bubbling kya hai?
+Event capturing kya hai?
+Event delegation kya hai?
+Prototype kya hota hai?
+Prototype chain kya hai?
+Prototypal inheritance kaise kaam karta hai?
+ES6 classes internally kaise kaam karti hain?
+Promise kya hai?
+Promise chaining kya hai?
+Promise.all kya karta hai?
+Promise.race kya karta hai?
+Async/await kaise kaam karta hai?
+Event loop kya hai?
+Call stack kya hai?
+Microtask vs Macrotask difference?
+setTimeout 0 ms ka behavior kya hai?
+IIFE kya hota hai?
+Deep copy vs shallow copy difference?
+Object.assign kya karta hai?
+JSON.stringify limitations kya hain?
+Map vs Object difference?
+Set kya hota hai?
+WeakMap kya hai?
+WeakSet kya hai?
+forEach vs map difference?
+filter vs reduce difference?
+
+Debounce kya hai?
+Throttle kya hai?
+Memory leak kya hota hai?
+Garbage collection kaise hoti hai?
+Closures memory leak ka reason kaise bante hain?
+this bind kaise karte hain manually?
+call, apply, bind me difference?
+Polyfill kya hota hai?
+Promise ka polyfill kaise likhenge?
+Object.freeze kya karta hai?
+Object.seal kya karta hai?
+Immutability kya hoti hai?
+Pure function kya hota hai?
+Side effects kya hote hain?
+Memoization kya hai?
+Symbol kya hota hai?
+Generators kya hote hain?
+Iterators kya hote hain?
+Optional chaining kya hai?
+Nullish coalescing kya hai?
+Proxy object kya hota hai?
+Reflect API kya hai?
+Module pattern kya hai?
+Singleton pattern kaise implement karte hain JS me?
+Factory function kya hoti hai?
+
+JavaScript engine kaise kaam karta hai?
+V8 engine kya hai?
+Just-In-Time compilation kya hota hai?
+Execution context kya hota hai?
+Lexical environment kya hota hai?
+Strict mode kya karta hai?
+use strict ka impact kya hai?
+Tail call optimization kya hai?
+Currying vs Partial application difference?
+Race condition kya hota hai?
+Web Workers kya hote hain?
+Service Workers kya hote hain?
+CORS kya hai?
+XSS attack kya hota hai?
+CSRF kya hota hai?
+Event loop starvation kya hota hai?
+Synchronous vs Asynchronous programming difference?
+Blocking vs Non-blocking code difference?
+Micro-frontend architecture kya hai?
+Tree shaking kya hota hai?
+Code splitting kya hota hai?
+Lazy loading kya hota hai?
+SSR vs CSR difference?
+Hydration kya hota hai?
+JavaScript me performance optimize kaise karte hain?
+
+Currying kya hoti hai?
